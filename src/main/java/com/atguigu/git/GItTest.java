@@ -18,5 +18,6 @@ public class GItTest {
         System.out.println("gitee testmy");
         System.out.println("qaqaqaqa");
         System.out.println("wawawawa");
+        System.out.println("lilililili");
     }
 }
