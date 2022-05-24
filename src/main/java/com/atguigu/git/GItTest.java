@@ -17,5 +17,6 @@ public class GItTest {
         System.out.println("gitee test1");
         System.out.println("gitee testmy");
         System.out.println("qaqaqaqa");
+        System.out.println("wawawawa");
     }
 }
